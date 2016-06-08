@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:44:06.150782
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:15
 #+TITLE: 梵網經菩薩戒本疏
 #+PROPERTY: CBETA_ID X38n0687
 #+PROPERTY: ID KR6k0092
